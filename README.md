@@ -54,16 +54,16 @@ You can refer to the following resources on Git and Github to get started and co
 
 
 ## Prizes 
-- Top 3 contributors 🍁<br/> 
+- Top 3 contributors ❄️<br/> 
 Special prize | Swag Kits | Shoutouts on Social Media handles | Certificate of appreciation
 
-- Top 5 female contributors 🍁 <br/>
+- Top 5 female contributors ❄️ <br/>
 Special prize | Swag Kits | Shoutouts on Social Media handles | Certificate of appreciation
 
-- Top 10 contributors 🍁 <br/>
+- Top 10 contributors ❄️ <br/>
 Shoutouts on Social Media handles | Swag kits and lots of exciting goodies | Certificate of appreciation
 
-- Top 25 contributors 🍁 <br/>
+- Top 25 contributors ❄️ <br/>
 Swag kits and lots of exciting goodies | Certificate of appreciation
 
 - All the contributors will get a certificate of appreciation for their first successful pull request
